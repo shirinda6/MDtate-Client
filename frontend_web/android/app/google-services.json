@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "932644138839",
+    "firebase_url": "https://migraine-1abd5.firebaseio.com",
+    "project_id": "migraine-1abd5",
+    "storage_bucket": "migraine-1abd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932644138839:android:a941655e518a733f321812",
+        "android_client_info": {
+          "package_name": "com.MDtate.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932644138839-fq3ifq3cnom1pv0i9dej84s31d5qn640.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MDtate.android",
+            "certificate_hash": "1743db39bf7239761cad6b9128b68cf64bacf00d"
+          }
+        },
+        {
+          "client_id": "932644138839-uikqmtvcrdduqo4drat01d510glq0f6o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MDtate.android",
+            "certificate_hash": "35afeb35e2005618b84e40e86f319e3884ac36ea"
+          }
+        },
+        {
+          "client_id": "932644138839-ocnf5jj16sc6fjj3nmna3qjrass4poor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRt7RoRY3KI7Yd1laa4aiqfHuQQPRjMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932644138839-ke7a5ghu02rfrl480vtrif5vooqkf5ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932644138839:android:cf52f3c70e562f7d321812",
+        "android_client_info": {
+          "package_name": "com.meditate.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932644138839-2anegn0ha334rpv031c06jsgro2k0hke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meditate.android",
+            "certificate_hash": "be77538b476d80a5d0890a93df7f5f3f11c1e02c"
+          }
+        },
+        {
+          "client_id": "932644138839-rmlg2oaubfl0p152qemhvgfg7p8da7n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meditate.android",
+            "certificate_hash": "1743db39bf7239761cad6b9128b68cf64bacf00d"
+          }
+        },
+        {
+          "client_id": "932644138839-sklmiqvlnkuhq9ndnfsub3k27d3mr3er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meditate.android",
+            "certificate_hash": "35afeb35e2005618b84e40e86f319e3884ac36ea"
+          }
+        },
+        {
+          "client_id": "932644138839-ocnf5jj16sc6fjj3nmna3qjrass4poor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsRt7RoRY3KI7Yd1laa4aiqfHuQQPRjMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932644138839-ke7a5ghu02rfrl480vtrif5vooqkf5ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
