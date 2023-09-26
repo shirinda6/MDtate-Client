@@ -1,7 +1,7 @@
 # Headache Management Meditation Application
 
 ### Description:
-MDtate is a specialized meditation application designed to assist patients dealing with headaches, with guidance from neurologists. <br>The application offers behavioral therapy through a variety of meditation techniques to aid in headache management. Patients can easily track their headaches and painkiller usage to better understand their patterns and manage their condition. Additionally, a dedicated interface is provided for doctors, enabling them to monitor patients using individualized identification keys.
+MDtate is a specialized meditation application designed to assist patients dealing with headaches, with guidance from neurologists. The application offers behavioral therapy through a variety of meditation techniques to aid in headache management. Patients can easily track their headaches and painkiller usage to better understand their patterns and manage their condition. Additionally, a dedicated interface is provided for doctors, enabling them to monitor patients using individualized identification keys.
 ### Technologies Used:
 * Flutter 
 * Firebase
@@ -23,18 +23,22 @@ MDtate is a specialized meditation application designed to assist patients deali
 
 
 ## Meditation recordings:
-##### Choose from a variety of audio recordings for relaxation, adapted to different times of the day. <br>Sharing feedback on relaxation effectiveness to help personalize the experience.
+Choose from a variety of audio recordings for relaxation, adapted to different times of the day. <br>Sharing feedback on relaxation effectiveness to help personalize the experience.
+
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="450" alt="הרפיות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/ab2abfc0-89af-47f8-9727-de64e2aea9b9">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="450" alt="הרפיות קצרות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/174c0f96-8e54-4024-8289-bc5eac2082b9">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="450" alt="צילום מסך 2023-09-26 105131" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/68023315-39bb-4d07-af72-80e39f995d3e">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="220" height="450" alt="צילום מסך 2023-09-26 164019" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/4bda26ee-f672-41ea-8838-751be0951284">
 
 ## Headache monitoring:
-##### Allows users to log their headaches, detailing intensity, duration of pain, and any medications taken for relief.<br> Users receive evening reminders, promoting consistent and timely reporting for accurate insights into their headache patterns.
+Allows users to log their headaches, detailing intensity, duration of pain, and any medications taken for relief.<br> Users receive evening reminders, promoting consistent and timely reporting for accurate insights into their headache patterns.
 <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="450" alt="עמוד אישי- יומן" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/4196088b-c4ea-460a-b53b-5485617698e0">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,8 +48,9 @@ MDtate is a specialized meditation application designed to assist patients deali
 
 
 ## Progress Monitoring:
-##### Our system facilitates progress tracking by generating graphical representations from the report log. <br>This allows for a comprehensive view of daily and monthly progress, aiding in the assessment of trends and insights. 
+Our system facilitates progress tracking by generating graphical representations from the report log. <br>This allows for a comprehensive view of daily and monthly progress, aiding in the assessment of trends and insights. 
 <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="450" alt="טעינה עמוד אישי" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/659e7367-ac3c-44f9-9669-985cf7f48d1c">
 &nbsp;&nbsp;&nbsp;&nbsp;
