@@ -26,13 +26,13 @@ MDtate is a specialized meditation application designed to assist patients deali
 Choose from a variety of audio recordings for relaxation, adapted to different times of the day. <br>Sharing feedback on relaxation effectiveness to help personalize the experience.
 
 <br>
-<img width="220" height="450" alt="הרפיות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/ab2abfc0-89af-47f8-9727-de64e2aea9b9">
-&nbsp;&nbsp;&nbsp;
-<img width="220" height="450" alt="הרפיות קצרות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/174c0f96-8e54-4024-8289-bc5eac2082b9">
-&nbsp;&nbsp;&nbsp;
-<img width="220" height="450" alt="צילום מסך 2023-09-26 105131" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/68023315-39bb-4d07-af72-80e39f995d3e">
-&nbsp;&nbsp;&nbsp;
-<img width="220" height="450" alt="צילום מסך 2023-09-26 164019" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/4bda26ee-f672-41ea-8838-751be0951284">
+<img width="200" height="450" alt="הרפיות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/ab2abfc0-89af-47f8-9727-de64e2aea9b9">
+&nbsp;
+<img width="200" height="450" alt="הרפיות קצרות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/174c0f96-8e54-4024-8289-bc5eac2082b9">
+&nbsp;
+<img width="200" height="450" alt="צילום מסך 2023-09-26 105131" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/68023315-39bb-4d07-af72-80e39f995d3e">
+&nbsp;
+<img width="200" height="450" alt="צילום מסך 2023-09-26 164019" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/4bda26ee-f672-41ea-8838-751be0951284">
 
 ## Headache monitoring:
 Allows users to log their headaches, detailing intensity, duration of pain, and any medications taken for relief.<br> Users receive evening reminders, promoting consistent and timely reporting for accurate insights into their headache patterns.
