@@ -5,7 +5,7 @@ This application offers behavioral therapy through a variety of meditation techn
 
 ## Home Page:
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="400"  alt="עמוד בית -over view" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/18561912-f0de-438a-9d82-9fd26bd45c16">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="400"  alt="עמוד בית - news" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/aa74f679-c0bd-4b9f-a761-86e62707c09c">
@@ -16,7 +16,7 @@ This application offers behavioral therapy through a variety of meditation techn
 ## Meditation recordings:
 ##### Choose from a variety of audio recordings for relaxation, adapted to different times of the day. <br>Sharing feedback on relaxation effectiveness to help personalize the experience.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="400" alt="הרפיות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/ab2abfc0-89af-47f8-9727-de64e2aea9b9">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="400" alt="הרפיות קצרות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/174c0f96-8e54-4024-8289-bc5eac2082b9">
@@ -26,7 +26,7 @@ This application offers behavioral therapy through a variety of meditation techn
 ## Headache monitoring:
 ##### Allows users to log their headaches, detailing intensity, duration of pain, and any medications taken for relief.<br> Users receive evening reminders, promoting consistent and timely reporting for accurate insights into their headache patterns.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="400" alt="עמוד אישי- יומן" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/4196088b-c4ea-460a-b53b-5485617698e0">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="400" alt="רשימת דוחות" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/db15ffae-24de-4a50-b5c0-75de81b9405c">
@@ -37,7 +37,7 @@ This application offers behavioral therapy through a variety of meditation techn
 ## Progress Monitoring:
 ##### Our system facilitates progress tracking by generating graphical representations from the report log. <br>This allows for a comprehensive view of daily and monthly progress, aiding in the assessment of trends and insights. 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="400" alt="טעינה עמוד אישי" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/659e7367-ac3c-44f9-9669-985cf7f48d1c">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img width="220" height="400" alt="אזור אישי גרף 1- חודש ספציפי" src="https://github.com/shirinda6/MDtate-Client/assets/81624047/56f3c02c-13a5-4468-873b-399d80ff316e">
