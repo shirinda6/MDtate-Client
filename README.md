@@ -1,4 +1,4 @@
-# MDtate - Headache Management Meditation Application
+# Headache Management Meditation Application
 
 ### Description:
 MDtate is a specialized meditation application designed to assist patients dealing with headaches, with guidance from neurologists. <br>The application offers behavioral therapy through a variety of meditation techniques to aid in headache management. Patients can easily track their headaches and painkiller usage to better understand their patterns and manage their condition. Additionally, a dedicated interface is provided for doctors, enabling them to monitor patients using individualized identification keys.
